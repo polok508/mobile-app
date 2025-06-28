@@ -1,0 +1,1 @@
+export const API_URL = "https://mobile-app-no91.onrender.com";
