@@ -21,28 +21,7 @@
 ![Recipe screen 2](./screenshots/screen10.png)
 ![Recipe screen 3](./screenshots/screen11.png)
 ![Recipe screen 4](./screenshots/screen12.png)
-=======
-![Login screen](screenshots/screen1.png)
 
-### 🏠 Главная страница
-![Home screen 1](screenshots/screen2.png)
-![Home screen 2](screenshots/screen3.png)
-![Home screen 3](screenshots/screen4.png)
-
-### 🔎 Поиск рецептов
-![Search screen 1](screenshots/screen5.png)
-![Search screen 2](screenshots/screen6.png)
-
-### ⭐ Избранное и выход
-![Favorites screen](screenshots/screen7.png)
-![Logout screen](screenshots/screen8.png)
-
-### 🍽️ Страница рецепта
-![Recipe screen 1](screenshots/screen9.png)
-![Recipe screen 2](screenshots/screen10.png)
-![Recipe screen 3](screenshots/screen11.png)
-![Recipe screen 4](screenshots/screen12.png)
->>>>>>> ada4036 (Добавлены скриншоты и обновлён README)
 
 # Welcome to your Expo app 👋
 
